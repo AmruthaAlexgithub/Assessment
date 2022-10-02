@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-02T18:59:53 IST" name="Default suite" finished-at="2022-10-02T19:01:48 IST" duration-ms="114359">
+    <groups>
+    </groups>
+    <test started-at="2022-10-02T18:59:53 IST" name="Default test" finished-at="2022-10-02T19:01:48 IST" duration-ms="114359">
+      <class name="com.assessment.SeleniumTest">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.assessment.SeleniumTest@34f7cfd9]" started-at="2022-10-02T18:59:54 IST" name="launchDriver" finished-at="2022-10-02T19:00:40 IST" duration-ms="46425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="addBooks()[pri:0, instance:com.assessment.SeleniumTest@34f7cfd9]" started-at="2022-10-02T19:00:40 IST" name="addBooks" finished-at="2022-10-02T19:00:57 IST" duration-ms="17199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooks -->
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:com.assessment.SeleniumTest@34f7cfd9]" started-at="2022-10-02T19:00:57 IST" name="closeBowser" finished-at="2022-10-02T19:01:00 IST" duration-ms="2237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBowser -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.assessment.SeleniumTest@34f7cfd9]" started-at="2022-10-02T19:01:00 IST" name="launchDriver" finished-at="2022-10-02T19:01:22 IST" duration-ms="22612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="deleteBooks()[pri:0, instance:com.assessment.SeleniumTest@34f7cfd9]" started-at="2022-10-02T19:01:22 IST" name="deleteBooks" finished-at="2022-10-02T19:01:46 IST" duration-ms="23349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBooks -->
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:com.assessment.SeleniumTest@34f7cfd9]" started-at="2022-10-02T19:01:46 IST" name="closeBowser" finished-at="2022-10-02T19:01:48 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBowser -->
+      </class> <!-- com.assessment.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

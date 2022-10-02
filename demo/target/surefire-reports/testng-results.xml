@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-02T18:52:08 IST" name="Command line suite" finished-at="2022-10-02T18:53:59 IST" duration-ms="110554">
+    <groups>
+    </groups>
+    <test started-at="2022-10-02T18:52:08 IST" name="Command line test" finished-at="2022-10-02T18:53:59 IST" duration-ms="110554">
+      <class name="com.assessment.SeleniumTest">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.assessment.SeleniumTest@6379eb]" started-at="2022-10-02T18:52:14 IST" name="launchDriver" finished-at="2022-10-02T18:53:36 IST" duration-ms="82373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="deleteBooks()[pri:0, instance:com.assessment.SeleniumTest@6379eb]" started-at="2022-10-02T18:53:36 IST" name="deleteBooks" finished-at="2022-10-02T18:53:57 IST" duration-ms="21478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBooks -->
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:com.assessment.SeleniumTest@6379eb]" started-at="2022-10-02T18:53:57 IST" name="closeBowser" finished-at="2022-10-02T18:53:59 IST" duration-ms="1248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBowser -->
+      </class> <!-- com.assessment.SeleniumTest -->
+      <class name="com.assessment.APITest">
+        <test-method signature="updateBook()[pri:0, instance:com.assessment.APITest@4cc451f2]" started-at="2022-10-02T18:52:08 IST" name="updateBook" finished-at="2022-10-02T18:52:14 IST" duration-ms="5353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+      </class> <!-- com.assessment.APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
